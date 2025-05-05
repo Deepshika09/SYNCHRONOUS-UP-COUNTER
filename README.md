@@ -1,6 +1,6 @@
 # SYNCHRONOUS-UP-COUNTER
 
-### Developed by: Hdeepshika hemanth kumat
+### Developed by: Deepshika hemanth kumar
 
 ### RegisterNumber: 212224220020
 
