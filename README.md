@@ -41,17 +41,7 @@ Each flip-flop in this circuit will be clocked at exactly the same time. The res
 
 Program for flipflops and verify its truth table in quartus using Verilog programming. 
 
-module ab(out,clk,rstn);
-input clk,rstn;
-output reg [3:0]out;
-always @ (posedge clk)
-begin
-   if(!rstn)
-     out<=0;
-   else 
-     out <= out+1;
-end
-endmodule
+![program exp](https://github.com/user-attachments/assets/b455eab7-afb3-44fb-a778-3902742b4c5b)
 
 
 
